@@ -29,6 +29,7 @@
             <img width="1898" height="833" alt="client page" src="https://github.com/user-attachments/assets/47550a77-5922-459b-8cd9-ae6ef075d9d0" />
             <img width="1893" height="833" alt="Client login" src="https://github.com/user-attachments/assets/290496a4-6342-4a39-a91d-3200aa88e492" />
     > Login using client details and navigate through sidebar for client page to submit query.
+    
     => _SUPPORT TEAM LOGIN AND DASHBOARD_:
             <img width="1896" height="828" alt="support team login" src="https://github.com/user-attachments/assets/84db6226-d31d-4c03-99fa-e03df1fd8331" />
             <img width="1894" height="830" alt="support dashboard" src="https://github.com/user-attachments/assets/aa7b5b3b-8c15-4827-9a86-d21372ea742e" />
