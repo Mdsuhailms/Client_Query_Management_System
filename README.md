@@ -35,7 +35,7 @@
             <img width="1894" height="830" alt="support dashboard" src="https://github.com/user-attachments/assets/aa7b5b3b-8c15-4827-9a86-d21372ea742e" />
    
 
--> Done Basic data cleaning in init_queries.ipynb file for updating CSV file to Database in POSTGRESQL local server.
+-> Done Basic data cleaning in *init_queries.ipynb* file for updating CSV file to Database in POSTGRESQL local server.
 
 -> Data Visualization of _Query Categories_ and _Query Status_ is shown
 <img width="704" height="450" alt="query category" src="https://github.com/user-attachments/assets/21046bb5-1963-4108-aca8-2f7b33e5b3bc" />
