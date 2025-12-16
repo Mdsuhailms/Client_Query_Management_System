@@ -57,6 +57,7 @@ def home():
             data = (username,hash_password)
 
             cursor.execute(query,data)
+            
             result = cursor.fetchone()
             conn.close()
 
